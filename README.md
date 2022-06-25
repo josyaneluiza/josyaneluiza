@@ -1,7 +1,6 @@
+# O-LÁ 
 
-
-- 👋 O-III, meu nome é  @josyaneluiza
-- 
+- 👋 Meu nome é  @josyaneluiza
 - 👀 Eu tenho e adoro animais, gatinhos principalmente! 
 - 🌱 Eu busco atualmente aprender sobre investimento, programação e formas melhores de administrar/ organizar o tempo, o dinheiro, a casa.
 - 💞️ Para fortalecer o coração, fortaleça a mente. 
@@ -9,10 +8,19 @@
 - Conhecimento é a base para você não ser passado pra trás. Você pode não ter dinheiro, mas conhecimento ninguém te tira . Busque saber !
 - Sempre me senti  " O Show da Luna " , ela adora descobrir . Na introdução do desenho , ela cita : Eu quero saber, não quero dormir, o que tá acontecento eu vou descobrir 
 
-## Acesse meu blog com resumos dos temas abaixo : 
+# Acesse meu blog com resumos dos temas abaixo : 
 
-## Explicando os  repositórios : 
 
+<li >
+  
+
+# Explicando os  repositórios : 
+  
+ <li>
+  
+  # Para acadêmicos : 
+  
+  <li >
 
 
 <!---
