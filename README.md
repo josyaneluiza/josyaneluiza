@@ -6,9 +6,7 @@
 - 💞️ Para fortalecer o coração, fortaleça a mente. 
 - 📫 Você pode me mandar um Alô no Instagram @josyaneluizaa. 
 - Conhecimento é a base para você não ser passado pra trás. Você pode não ter dinheiro, mas conhecimento ninguém te tira . Busque saber !
-- Sempre me senti  " O Show da Luna " , ela adora descobrir . Na introdução do desenho , ela canta : Eu quero saber, não quero dormir, o que tá acontecento eu vou descobrir 
-- Ciências Biológicas era minha matéria preferida na escola ! 
-- 
+
 # Acesse meu blog com resumos dos temas abaixo : 
 
 
