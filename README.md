@@ -6,20 +6,15 @@
 - 💞️ Para fortalecer o coração, fortaleça a mente. 
 - 📫 Você pode me mandar um Alô no Instagram @josyaneluizaa. 
 - Conhecimento é a base para você não ser passado pra trás. Você pode não ter dinheiro, mas conhecimento ninguém te tira . Busque saber !
-
-# Acesse meu blog com resumos dos temas abaixo : 
-
-
-<li >
   
-
-# Explicando os  repositórios : 
+  
+# Repositórios : 
   
  <li>
   
   # Para acadêmicos : 
   
-  <li >
+  <li > <a href= https://github.com/josyaneluiza/Curso-SQL-youtube-4-horas /> 
 
 
 <!---
