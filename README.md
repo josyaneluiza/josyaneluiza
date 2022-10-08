@@ -13,8 +13,8 @@
  <li>
   
   # Para acadêmicos : 
-  
-  <li > <a href= https://github.com/josyaneluiza/Curso-SQL-youtube-4-horas /> 
+  <ol 
+  <li > <a href= https://github.com/josyaneluiza/Curso-SQL-youtube-4-horas /> <li><a href="https://github.com/josyaneluiza/Curso-SQL-youtube-4-horas"> Curso SQL do Youtube</a></li>
 
 
 <!---
